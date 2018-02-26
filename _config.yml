@@ -1,5 +1,5 @@
 # Site settings
-title: 海之林
+title: 学而思，勤习之
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
 description: "王海林|学而思，勤习之"  
@@ -49,7 +49,7 @@ defaults:
 comments :
   provider : disqus
   duoshuo :
-    short_name :Taolity
+    short_name : Taolity
   disqus :
       short_name : Taolity
 
