@@ -1,9 +1,9 @@
 # Site settings
 title: 学而思，勤习之
-header-img: "img/Xacebook.jpg"
+header-img: "img/green.jpg"
 tagline: "cn"  
 description: "王海林|学而思，勤习之"  
-baseurl: ""
+baseurl: "http://wanghailin.info"
 url: "http://wanghailin.info"  
 
 # About/contact
@@ -13,8 +13,8 @@ owner:
   bio: "hailinn"
 
 # Data
-gavatar: http://openmindclub.qiniudn.com/omt/favicon.png 
-favicon: img/favicon.ico
+# gavatar: http://openmindclub.qiniudn.com/omt/favicon.png 
+# favicon: img/favicon.ico
 
 douban_username:  cnfeat
 twitter_username: feat
@@ -43,7 +43,7 @@ defaults:
     values:
       layout: "post"
       author: "Hailinn"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/blue.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
