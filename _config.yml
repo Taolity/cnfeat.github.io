@@ -13,15 +13,15 @@ owner:
   bio: "hailinn"
 
 # Data
-# gavatar: http://openmindclub.qiniudn.com/omt/favicon.png 
-# favicon: img/favicon.ico
+gavatar: img/taolity.png
+favicon: img/tolity.ico
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+douban_username:  
+twitter_username: 
+github_username: Taolity
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+weibo_username: 
+zhihu_username: wang-can-23-70
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -49,12 +49,12 @@ defaults:
 comments :
   provider : disqus
   duoshuo :
-    short_name : Taolity
+    short_name : # Taolity
   disqus :
-      short_name : Taolity
+      short_name : # Taolity
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-80884545-1
+google_analytics: # UA-80884545-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
