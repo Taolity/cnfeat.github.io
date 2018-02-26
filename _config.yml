@@ -1,9 +1,9 @@
 # Site settings
-title: 学而思，勤习之
+title: 学而勤习之
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "王海林|学而思，勤习之"  
-baseurl: "http://wanghailin.info"
+description: "王海林|学而勤习之"  
+baseurl: ""
 url: "http://wanghailin.info"  
 
 # About/contact
