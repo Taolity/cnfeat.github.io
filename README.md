@@ -1,6 +1,6 @@
 ## 说明
 
-此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
+此博客 fork 自 [Azeril](http://azeril.me/)，[cnfeat](http://azeril.me/)感谢。
 
 ## 学而思，勤习之
 
