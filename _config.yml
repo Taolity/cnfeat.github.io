@@ -1,16 +1,16 @@
 # Site settings
 title: 学而勤习之
-header-img: "img/green.jpg"
+header-img: "img/semantic.jpg"
 tagline: "cn"  
-description: "hailinn|学而勤习之"  
+description: "Hailin|学而勤习之"  
 baseurl: ""
 url: "http://wanghailin.info"  
 
 # About/contact
 owner: 
-  name: " hailinn"
+  name: " Hailin"
   email: hailln@163.com
-  bio: "hailinn"
+  bio: "Hailin"
 
 # Data
 gavatar: img/taolity.png
@@ -42,21 +42,21 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Hailinn"
+      author: "Hailin"
       header-img: "img/blue.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
-comments :
-  provider : disqus
-  duoshuo :
-    short_name : # Taolity
-  disqus :
-      short_name : # Taolity
+# comments :
+ #  provider : disqus
+ # duoshuo :
+  #  short_name : # Taolity
+ # disqus :
+   #   short_name : # Taolity
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: # UA-80884545-1
-google_verify:
+# google_analytics: # UA-80884545-1
+# google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# bing_verify:
 
 # Links to include in footer navigation
