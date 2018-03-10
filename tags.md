@@ -2,9 +2,8 @@
 layout: page
 title: "标签"
 description: "文章基因库"  
-header-img: "img/green.jpg"  
+header-img: "img/semantic.jpg"  
 ---
-
 
 
 
