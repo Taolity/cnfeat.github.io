@@ -1,9 +1,9 @@
 ## 说明
 
-此博客 fork 自 [Azeril](http://azeril.me/)，[cnfeat](http://azeril.me/)感谢。
+此博客 fork 自 [Azeril](http://azeril.me/)，[cnfeat](http://cnfeat.com)感谢。
 
 ## 学而思，勤习之
 
-我是王海林，博客：[wanghailin.info](wanghailin.info)
+我是王海林，博客：[学而勤习之](wanghailin.info)
 
 
