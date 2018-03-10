@@ -14,7 +14,7 @@ header-img: "img/semantic.jpg"
 
 ## GitHub：
     
-    [https://github.com/Taolity](https://github.com/Taolity)
+    [https://github.com/Taolity] (https://github.com/Taolity)
     
 
 
