@@ -8,11 +8,12 @@ header-img: "img/green.jpg"
 
 
 
-**我是王海林，读书修行，感悟体验，博学审问，慎思明辨，后笃行之。
+# 我是王海林，读书修行，感悟体验，博学审问，慎思明辨，后笃行之。
 
 
 
 ##  GitHub：
+    
     [Taolity] (https://github.com/Taolity/)
     
 
