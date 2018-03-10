@@ -4,6 +4,6 @@
 
 ## 学而思，勤习之
 
-我是王海林，博客：[学而勤习之](wanghailin.info)
+我是王海林，博客：[学而勤习之](http://wanghailin.info)
 
 
