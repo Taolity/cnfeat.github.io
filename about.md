@@ -13,7 +13,8 @@ header-img: "img/green.jpg"
 
 
 ##  GitHub：
-    [Taolity](https://github.com/Taolity/)
+    [Taolity] (https://github.com/Taolity/)
+    
 
 
 ## 坚信
@@ -21,6 +22,7 @@ header-img: "img/green.jpg"
 * 纵浪大化中，不喜亦不惧；
 * 在学习中实践，在实践中学习；
 * 生活就是个缓慢受锤的过程，人一天天老去，奢望也一天天消失，最后变得像挨了锤的牛一样。但我坚信自己会永远生猛下去，什么也锤不了我。
+
 
 
 ## 联系
