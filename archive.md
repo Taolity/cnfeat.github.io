@@ -2,7 +2,7 @@
 layout: page
 title: "归档"
 description: "删繁就简三秋树，领异标新二月花"
-header-img: "img/orange.jpg"
+header-img: "img/Lake Louise.jpg"
 ---
 
 
