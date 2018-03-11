@@ -6,8 +6,15 @@ header-img: "img/semantic.jpg"
 ---
 
 
+ ##  我的简历
 
-    #  我是王海林，读书修行，感悟体验，博学审问，慎思明辨，后笃行之。
+         [王海林-中央民族大学-信息与计算科学]()
+
+           ` 读书且修行，感悟多体验。`
+
+           博学审问慎思之，后明辨笃行之。
+
+
     
 ## 坚信
 
@@ -19,4 +26,7 @@ header-img: "img/semantic.jpg"
 
 ## 联系
 
-[邮箱](hailln@163.com)
+邮箱:hailln@163.com
+
+Github:[Taolity](https://github.com/Taolity)
+
