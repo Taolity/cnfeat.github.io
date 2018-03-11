@@ -2,12 +2,13 @@
 layout: page
 title: "标签"
 description: "文章基因库"  
-header-img: "img/semantic.jpg"  
+header-img: "img/Hallstatt.jpg"  
 ---
 
 
 
 ## 基因列表
+
 
 
 <div id='tag_cloud'>
