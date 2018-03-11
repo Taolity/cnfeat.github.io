@@ -8,9 +8,10 @@ header-img: "img/semantic.jpg"
 
  ##  我的简历
 
-  [王海林-中央民族大学-信息与计算科学](https://github.com/Taolity/Taolity.github.io/blob/master/source/resume.html)
+ [王海林-中央民族大学-信息与计算科学](http://www.wanghailin.info/source/resume.html)
  
-   读书且修行，感悟多体验。
+  [pdf下载](Taolity.github.io/source/18应届-王海林-中央民族大学-信息与计算科学-数据分析师.pdf)
+   读书且修行，感悟多体验。
 
    博学审问慎思之，后明辨笃行之。
 
