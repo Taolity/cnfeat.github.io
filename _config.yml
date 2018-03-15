@@ -46,17 +46,17 @@ defaults:
       header-img: "img/blue.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
-# comments :
- #  provider : disqus
- # duoshuo :
-  #  short_name : # Taolity
- # disqus :
-   #   short_name : # Taolity
+ comments :
+   provider : disqus
+  duoshuo :
+    short_name : hailin wang
+  disqus :
+      short_name : hailin wang
 
 # Analytics and webmaster tools stuff goes here
 # google_analytics: # UA-80884545-1
-# google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify:
+ google_verify:
+ https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+ bing_verify:
 
 # Links to include in footer navigation
