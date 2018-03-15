@@ -49,9 +49,9 @@ defaults:
  comments :
    provider : disqus
   duoshuo :
-    short_name : hailin wang
+    short_name : hailinwang
   disqus :
-      short_name : hailin #wang
+      short_name : hailinwang
 
 # Analytics and webmaster tools stuff goes here
 # google_analytics: # UA-80884545-1
