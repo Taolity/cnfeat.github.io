@@ -47,7 +47,7 @@ defaults:
 
 # Comments 
  comments :
-   provider : disqus
+   provider : # disqus
   duoshuo :
     short_name : # https-www-wanghailin-info
   disqus :
@@ -56,7 +56,7 @@ defaults:
 # Analytics and webmaster tools stuff goes here
 # google_analytics: # UA-80884545-1
  google_verify:
- https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+ # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
  bing_verify:
 
 # Links to include in footer navigation
