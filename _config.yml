@@ -1,10 +1,10 @@
 # Site settings
-title: "学而勤习之"
-header-img: "img/Just magic.jpg"
+title:"学而勤习之"
+header-img:"img/Just magic.jpg"
 tagline: "cn"  
-description: "Hailin|学而勤习之"  
-baseurl: ""
-url: "https://wanghailin.info"  
+description:"Hailin|学而勤习之"  
+baseurl: 
+url:"https://wanghailin.info"  
 
 # About/contact
 owner: 
